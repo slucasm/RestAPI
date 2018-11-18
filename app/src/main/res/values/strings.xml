@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APIRest</string>
+
+    <string-array name="implementations">
+        <item>Show all Tracks</item>
+        <item>Create a new Track</item>
+        <item>Delete a Track</item>
+    </string-array>
+</resources>
